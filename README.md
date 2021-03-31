@@ -12,9 +12,9 @@ git clone https://github.com/americankimchi/blackjack
 
 ### Blackjack env from https://gym.openai.com/envs/Blackjack-v0/: original_blackjack.py
 Player does not have an option of double.
-Training in this environment is found in 'Project_Blackjack_3.ipynb'
+Training in this environment is found in `Project_Blackjack_3.ipynb`
 
 ### Modified blackjack env: double_blackjack.py
 Player has an option of double.
-Training in this environment is found in 'Project_Blackjack_(withDouble).ipynb'
-The result of an agent's learned strategy is found in 'AgentStrategy.txt'
+Training in this environment is found in `Project_Blackjack_(withDouble).ipynb`
+The result of an agent's learned strategy is found in `AgentStrategy.txt`
