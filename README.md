@@ -1,6 +1,7 @@
 # Black using Q-Learning
 
 Black Jack using Q-Learning with openAI environment: https://gym.openai.com/envs/Blackjack-v0/
+The implementation follows from `Stanford-Blackjack.pdf`
 
 ## Getting Started
 ### Installation
