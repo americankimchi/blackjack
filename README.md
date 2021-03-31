@@ -10,10 +10,10 @@ Black Jack using Q-Learning with openAI environment: https://gym.openai.com/envs
 git clone https://github.com/americankimchi/blackjack
 ```
 
-### Blackjack env from https://gym.openai.com/envs/Blackjack-v0/ : original_blackjack.py
+### Blackjack env from https://gym.openai.com/envs/Blackjack-v0/: original_blackjack.py
 Player does not have an option of double.
 Training in this environment is found in Project_Blackjack_3.ipynb
 
-### Modified blackjack env from https://gym.openai.com/envs/Blackjack-v0/ : double_blackjack.py
+### Modified blackjack env: double_blackjack.py
 Player has an option of double.
 Training in this environment is found in Project_Blackjack_(withDouble).ipynb
