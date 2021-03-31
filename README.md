@@ -19,4 +19,4 @@ Training in this environment is found in `Project_Blackjack_3.ipynb`
 Player has an option of double. <br/>
 Training in this environment is found in `Project_Blackjack_(withDouble).ipynb` <br/>
 The result of an agent's learned strategy is found in `AgentStrategy.txt` <br/>
-Report of our study is found in `Report.pdf'
+Report of our study is found in `Report.pdf`
